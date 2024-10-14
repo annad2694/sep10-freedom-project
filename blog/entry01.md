@@ -6,7 +6,7 @@
 # Entry 1: Learning all about Movie Production
 ##### 10/14/24
 
-## Topic Shopping
+## Deciding what Topic
 
 When Mr. Mueller provided a long list of possibilities of topics that we can use for our freedom project I was overwhelmed but nonetheless surprised. I had not envisioned so many possibilities in my brain for how endless the number of topics my project could be about. I searched through the list and chose three that I liked. Those topics were Cosmetics, Marketing, and Media Production. However, when I started researching I realized that I was only inquisitive about one of these topics. Ever since I was young I was always fascinated with the technological concepts and devices that produced movies. I am a big movie fanatic and my Freedom Project being about the big mystery of how movies are made was the perfect match. Websites on the internet like ["How Technology is Revolutionising Film Production"](https://www.sae.edu/gbr/insights/how-technology-is-revolutionising-filmproduction/#:~:text=Future%20of%20Film%20Technology&text=Camera%20equipment%20can%20now%20be,development%20within%20the%20film%20industry.) by SAE provide information on how technology plays a part in Film Production but also this website ["The Future of Filmmaking"](https://raindance.org/the-future-of-filmmaking-5-filmmaking-trends-to-watch-out-for-in-2024/) is something I also want to look into because it includes possible trends that can appear in the future that can advance the technology used in filming, such as movies in theaters incorporating all five senses. Seeing the different ways new technology is integrated into movie production was captivating and further ignited my passion for everything behind the scenes. 
 
