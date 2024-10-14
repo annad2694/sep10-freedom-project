@@ -1,5 +1,5 @@
 # SEP10 Freedom Project
-## My Blog
+## FP Blog 1
 
 ---
 
