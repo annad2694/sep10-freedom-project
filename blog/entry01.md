@@ -3,7 +3,7 @@
 
 ---
 
-# Entry 1: Deciding on My Topic (Visual Arts)
+# Entry 1: Learning all about Movie Production
 ##### 10/14/24
 
 ## Topic Shopping
