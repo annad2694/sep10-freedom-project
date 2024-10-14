@@ -12,7 +12,7 @@ When Mr. Mueller provided a long list of possibilities of topics that we could u
 
 ## Engineering Design Process
 
-As of late, I am still on the first step, defining, which has taken me a while to figure out. I have officially decided to stick with movie production because it falls in- line with my line of passions. When I grow up, I wish to be something in film, but something that also involves technology, and I predict that the filmmaker falls in line with that pretty smoothly. The second step is to research all about movie production, which might take a while since I'll have to read a lot of articles, watch videos, and even engage with people in that line of work to get a better understanding of the profession and how the modern world of technology and code can play a part in that field. 
+As of late, I am still on the first step of the engineering design process, defining, which has taken me a while to figure out. I have officially decided to stick with movie production because it falls in- line with my line of passions. When I grow up, I wish to be something in film, but something that also involves technology, and I predict that the filmmaker falls in line with that pretty smoothly. The second step is to research all about movie production, which might take a while since I'll have to read a lot of articles, watch videos, and even engage with people in that line of work to get a better understanding of the profession and how the modern world of technology and code can play a part in that field. 
 
 ## Skills
 
