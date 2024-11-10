@@ -27,14 +27,3 @@ I open up my weekends to do assignments like this one for big projects at the en
 
 I am interested to explore and brainstorm solutions to the problem I'm researching. Which, I will probably do next week.   
 
-
-
-
-
-
-
-
-
-[Previous](entry01.md) | [Next](entry03.md)
-
-[Home](../README.md)
