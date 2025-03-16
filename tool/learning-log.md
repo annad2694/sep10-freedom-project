@@ -9,8 +9,6 @@
   *   Since tinkering of this week I have explored more of the page and eventually saw that they had a Slack and Github account to research more of their tool on <a href="https://github.com/aframevr/aframe/tree/master/docs/components" target="_blank">Visit A-Frame Components Docs</a>
   *   I also watched part of the video of where this guy used the inspector tool to put geometric shapes on top of each other. <a href="https://www.youtube.com/watch?v=UYT97ZHPvEY">Youtube Inspection Tool</a>
 
-
-
 * I think the biggest challenge was to add the text on top of the camera. I just wanted to do it so people understand what it is because I know it's not the clearest 3D picture of one, but the more I tinker, the better I will get. I had trouble with getting it where I wanted to but I realized that I had to put "align" when I asked a friend. But I wasn't sure if it was going to work because "align" popped up as red which I thought was incorrect on my IDE but it turned out working fine. 
 
 ```html
