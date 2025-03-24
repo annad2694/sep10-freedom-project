@@ -29,7 +29,7 @@ At first for planning, I decided to split up a camera into different parts and c
 
 
 ### 3/23/35:
-I learned about many differnt lights that I can incoporate in my freedom project to add style or just for the purposes of my hardware devices aswell.
+I learned about many different types of lights that I can incorporate into my freedom project to add style or serve the purposes of my hardware devices as well.
 <p> There are five differernt lights </p>
 
 * Directional Light
@@ -74,11 +74,17 @@ I learned about many differnt lights that I can incoporate in my freedom project
 
 I watched this video for some inspiration on the differrent types of lighting and how to manage them: https://www.youtube.com/watch?v=7GEvyHcy-og.
 
-A challange that I had is dechivering the differrence between spot and point lights, but the video explained they pretty well.
-![alt text](image.png)
-Basically, spot light is like a cone on the one object or scene and point is also light on that same thing but it bounces off everywhere else illuminating the presence of something.
+A challenge that I had was deciphering the difference between spot and point lights, but the video explained them pretty well.
 
-Overall, I think that the spotlight will work better for my project so that is why I inserted the code here so I can use it later for little details in my Freedom Project.
+```html
+<a-light type="spot" color="FF0000" position="-20 0 0" look-at="a-box"></a-light>
+
+```
+
+
+Basically, a spotlight is like a cone focused on one object or scene, while a point light is also focused on the same object but bounces off in all directions, illuminating the surrounding area.
+
+Overall, I think the spotlight will work better for my project, which is why I inserted the code here so I can use it later for little details in my Freedom Project.
 
 <!--
 * Links you used today (websites, videos, etc)
