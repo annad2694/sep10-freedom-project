@@ -16,9 +16,57 @@
 
 
 
-### X/X/XX:
-* Text
+### 3/23/35:
+I learned about many differnt lights that I can incoporate in my freedom project to add style or just for the purposes of my hardware devices aswell.
+<p> There are five differernt lights </p>
 
+* Directional Light
+<ul>
+
+* shadows (high contrast)
+
+* like sunlight
+</ul>
+
+* Point Light
+<ul>
+
+* one place light
+
+* lightbulb effect
+</ul>
+
+*   Ambient Light
+<ul>
+
+* no shadows
+
+* brightness everywhere
+</ul>
+
+* Spot Light
+<ul>
+
+* pointed triangle light (good for lights like stage)
+
+* different sides of light and opacity
+</ul>
+
+* Hemisphere Light
+<ul>
+
+* shadows (low contrast)
+
+* two different hues
+</ul>
+
+I watched this video for some inspiration on the differrent types of lighting and how to manage them: https://www.youtube.com/watch?v=7GEvyHcy-og.
+
+A challange that I had is dechivering the differrence between spot and point lights, but the video explained they pretty well.
+![alt text](image.png)
+Basically, spot light is like a cone on the one object or scene and point is also light on that same thing but it bounces off everywhere else illuminating the presence of something.
+
+Overall, I think that the spotlight will work better for my project so that is why I inserted the code here so I can use it later for little details in my Freedom Project.
 
 <!--
 * Links you used today (websites, videos, etc)
