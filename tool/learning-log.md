@@ -16,7 +16,7 @@
 
 
 
-### 3/23/35:
+### 3/23/25:
 I learned about many differnt lights that I can incoporate in my freedom project to add style or just for the purposes of my hardware devices aswell.
 <p> There are five differernt lights </p>
 
@@ -67,6 +67,16 @@ A challange that I had is dechivering the differrence between spot and point lig
 Basically, spot light is like a cone on the one object or scene and point is also light on that same thing but it bounces off everywhere else illuminating the presence of something.
 
 Overall, I think that the spotlight will work better for my project so that is why I inserted the code here so I can use it later for little details in my Freedom Project.
+
+### 4/13/25:
+As a continuation from last year, I decided to take it upon myself to watch Part 2 of the video I watched last time about A-Frame—the beginning and the transformation of it.
+https://www.youtube.com/watch?v=mETucqeOmXA&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84&index=2
+In Part 2, she talks about how I can customize my three-dimensional objects using rotation, position, and textures. By doing this, I can use the XYZ coordinate system, which is simple for students—so it was really an advantage for me. For example, in the video, she shows how to rotate a box 45° on the Y-axis and view many different angles using her mouse and keyboard. Lastly, she gives the object a brick texture to create a realistic appearance.
+
+In VR development, she shows us how to use tools like Inspector and how the minimal setup simplifies the work you do in A-Frame. She browses the Bootstrap website and talks about the different primitives it offers. Something really cool that I took away from the video is how she made one object into another—like making the circle ring a part of the sphere by making it its own section/primitive.
+
+I have completed all the steps from my four-step journey of tinkering with my tool, and I'm ready to use it now.
+
 
 <!--
 * Links you used today (websites, videos, etc)
