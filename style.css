@@ -1,6 +1,6 @@
 
 h1 {
-    color: red;
+    text-align:
   }
 
   p {
@@ -12,9 +12,8 @@ h1 {
 
   h2 {
     font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 400;
-    font-style: normal;
+    color: red;
   }
 
   h3 {
