@@ -149,33 +149,25 @@ I feel that after or as we produce the movie we should be able to ask the viewer
       <div class="col-md-6">
         <h3>My tool: Aframe</h3>
         <p class="my-tool">
-          Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...Aenean eleifend egestas lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra...
+          
         </p>
       </div>
 
 
       <div class="col-md-6">
   <div class="scene-container">
-    <a-scene embedded>
-      <!-- Camera with controls -->
-      <a-entity camera look-controls wasd-controls position="0 1.6 3"></a-entity>
-
-      <!-- Lighting -->
-      <a-entity light="type: ambient; color: #BBB"></a-entity>
-      <a-entity light="type: directional; color: #FFF; intensity: 0.6" position="1 1 0"></a-entity>
-
-      <!-- Example chess pieces -->
-      <a-box position="-1 0.5 -3" color="blue"></a-box>
-      <a-cylinder position="1 0.5 -3" color="red"></a-cylinder>
-
-      <!-- Floor -->
-      <a-plane rotation="-90 0 0" width="10" height="10" color="#ccc"></a-plane>
-    </a-scene>
+  <a-scene embedded>
+  <a-entity camera look-controls wasd-controls position="0 1.6 3"></a-entity>
+  <a-entity light="type: directional; color: #FFF; intensity: 6" position="-3 2 0"></a-entity>
+  <a-entity light="type: ambient; color: #222"></a-entity>
+  <a-sphere position="0 1 -3" radius="0.5" color="black"></a-sphere>
+  <a-plane rotation="-90 0 0" width="2" height="2" color="#ccc" position="0 0 -3"></a-plane>
+</a-scene>
   </div>
 
 
   <div class="content">
-    <p>My Aframe element is attached, just click on the zoom in arrow icon.</p>
+    <h2>My Aframe element is attached, just click on the zoom in arrow icon.</h2>
   </div>
 </body>
       </div>
