@@ -56,7 +56,8 @@ h1 {
       background: #f9f9f9;
       margin: 0;
       padding: 40px;
-background: linear-gradient(90deg, black, white);
+background: linear-gradient(90deg, yellow, blue, red);
+
     }
 
     .container {
