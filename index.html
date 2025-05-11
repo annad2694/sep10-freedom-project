@@ -155,7 +155,35 @@ I feel that after or as we produce the movie we should be able to ask the viewer
 
 
       <div class="col-md-6">
-        <img src="https://www.freecatphotoapp.com/your-image.jpg" alt="freeCodeCamp logo" style="max-width: 100%; height: auto;">
+        <div class="content">
+    <h1>Welcome to My Website</h1>
+    <p>This is content that appears above the A-Frame scene.</p>
+  </div>
+
+  <!-- A-Frame Scene in a smaller embedded section -->
+  <div class="scene-container">
+    <a-scene embedded>
+      <!-- Camera with controls -->
+      <a-entity camera look-controls wasd-controls position="0 1.6 3"></a-entity>
+
+      <!-- Lighting -->
+      <a-entity light="type: ambient; color: #BBB"></a-entity>
+      <a-entity light="type: directional; color: #FFF; intensity: 0.6" position="1 1 0"></a-entity>
+
+      <!-- Example chess pieces -->
+      <a-box position="-1 0.5 -3" color="blue"></a-box>
+      <a-cylinder position="1 0.5 -3" color="red"></a-cylinder>
+
+      <!-- Floor -->
+      <a-plane rotation="-90 0 0" width="10" height="10" color="#ccc"></a-plane>
+    </a-scene>
+  </div>
+
+  <!-- More content -->
+  <div class="content">
+    <p>This is more content below the A-Frame scene.</p>
+  </div>
+</body>
       </div>
     </div>
   </div>
