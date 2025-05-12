@@ -12,7 +12,7 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    
+
   }
 
   h2 {
@@ -58,7 +58,7 @@ h1 {
       background: #f9f9f9;
       margin: 0;
       padding: 40px;
-background: linear-gradient(90deg, yellow, blue, red);
+background: linear-gradient(90deg, #fceabb, #99c1de, #f78ca0);
 
     }
 
