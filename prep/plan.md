@@ -32,7 +32,7 @@
 <!-- DO NOT USE THIS YET
 
 | Name | Glows | Grows |
-| -------- | ------- | ------- |
+| Jehan| ------- | ------- |
 |   |   |
 |   |   |
 |   |   |
