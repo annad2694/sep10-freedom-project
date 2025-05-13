@@ -45,7 +45,7 @@ Planning my Presentation:
 Hook
 How will you introduce your project in a captivating way?
 
-Think of your favorite movie or tv show. Does it have a lot of superheros in it? Is there a lot of gore? Is it a crazy action movie where there looks like there is a million angles being taken?
+Think of your favorite movie or tv show. Does it have a lot of superheros in it? Is there a lot of gore? Is it a crazy action scene where there looks like  a million angles are being taken? This is all part of Movie Production, and unfortunately, most of it is not real. It is a concept behind the scenes.
 
 Product
 How will you show off what you made?
