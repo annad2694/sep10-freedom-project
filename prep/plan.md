@@ -55,7 +55,7 @@ By providing a demo of what it is what I made to be shown off and tried as an ex
 Process
 How will you show us how you made it?
 
-I will show you how I made it by going through the behind-the-scenes of the code and any challenges that I overcame while doing the project.
+I will show you how I made it by going through the behind-the-scenes of the code and any challenges that I overcame while doing the project. Maybe include details of how I researched parts A or B, or how I came up with those ideas. For Part A, I had to look at unique hardware and software that relate to movie production. I didn't just click on the first link, but I looked on multiple sites and used some of my own knowledge. I used Wireframe to lay out my ideas and my tool, Aframe, to show different movie aspects in a VR graphic setting. Generally, like an online movie set. 
 
 Conclusion
 How will you summarize / wrap up your presentation?
