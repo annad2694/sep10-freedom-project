@@ -46,6 +46,9 @@ Hook
 How will you introduce your project in a captivating way?
 Product
 How will you show off what you made?
+
+
+
 Process
 How will you show us how you made it?
 
