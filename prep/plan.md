@@ -44,10 +44,13 @@
 Planning my Presentation:
 Hook
 How will you introduce your project in a captivating way?
+
+
+
 Product
 How will you show off what you made?
 
-By providing a demo of what it is what I made to be shown off
+By providing a demo of what it is what I made to be shown off and tried as an example to others.
 
 Process
 How will you show us how you made it?
