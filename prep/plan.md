@@ -50,7 +50,7 @@ Think of your favorite movie or tv show. Does it have a lot of superheros in it?
 Product
 How will you show off what you made?
 
-By providing a demo of what it is what I made to be shown off and tried as an example to others.
+By providing a demo of what it is what I made to be shown off and tried as an example to others. And everything will be shown through a clickable URL.
 
 Process
 How will you show us how you made it?
