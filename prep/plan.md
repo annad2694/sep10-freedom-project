@@ -48,5 +48,8 @@ Product
 How will you show off what you made?
 Process
 How will you show us how you made it?
+
+I will show you how I made it by going through the behind-the-scenes of the code and any challenges that I overcame while doing the project.
+
 Conclusion
 How will you summarize / wrap up your presentation?
