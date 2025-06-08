@@ -38,7 +38,7 @@
 ```
 This line of code was the one line I needed to link my Aframe work onto my website. I realized later that you could find it if you went to the <a href="https://aframe.io/docs/1.7.0/introduction/installation.html">Aframe website--installation</a>, it will give you that line of code that you need to put in your head for all of your Aframe elements to work. </li>
 
-### EDP
+## EDP
 <p>I am currently in the last stages of my engineering design process because I am finished with my MVP. I have done my beyond MVP, which is tweaking it to look better. And I am ready for the last stage to work on feedback from my partners and present my final product. </p>
 
 ## Skill
