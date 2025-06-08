@@ -1,7 +1,7 @@
-# Entry 6
+# Entry 6: Go beyond MVP
 ##### 5/12/25
 
-Text
+###
 
 [Previous](entry05.md) | [Next](entry07.md)
 
